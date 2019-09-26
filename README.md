@@ -20,6 +20,14 @@ e：护盾 （抵挡普通子弹）
 
 space：闪现 （向鼠标位置闪现一段距离）
 
+### 演示
+开始界面
+![image](https://github.com/JeromeLee-ljl/Space-Shooter/blob/master/Assets/Image/Display/start.png)
+游戏界面
+![image](https://github.com/JeromeLee-ljl/Space-Shooter/blob/master/Assets/Image/Display/game.png)
+游戏中
+![image](https://github.com/JeromeLee-ljl/Space-Shooter/blob/master/Assets/Image/Display/gaming.png)
+
 ### 实现功能：
 * 利用对象池技术来加载敌机、子弹
 * 用UGUI实现简单的页面跳转、技能CD效果
