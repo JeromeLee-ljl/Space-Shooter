@@ -1,5 +1,5 @@
 # Space-Shooter
-弹幕类游戏————第一个unity游戏
+弹幕类游戏——第一个unity游戏
 
 ### 操作
 wasd ：移动
